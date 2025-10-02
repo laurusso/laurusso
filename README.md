@@ -1,4 +1,4 @@
-###👩‍💻Hi there, I'm Laura Russo!
+### 👩‍💻Hi there, I'm Laura Russo!
 
 - 👩‍🎓Studying **Information Systems** at **University of Campinas** 
 - 💫Enthusiast about **Data Science** and **Interface Design** 
